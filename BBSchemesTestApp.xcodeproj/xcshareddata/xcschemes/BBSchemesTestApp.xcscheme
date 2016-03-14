@@ -20,6 +20,34 @@
                ReferencedContainer = "container:BBSchemesTestApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83493F9D1C973E5F00A37952"
+               BuildableName = "BBSchemesTestAppTests.xctest"
+               BlueprintName = "BBSchemesTestAppTests"
+               ReferencedContainer = "container:BBSchemesTestApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83493FA81C973E5F00A37952"
+               BuildableName = "BBSchemesTestAppUITests.xctest"
+               BlueprintName = "BBSchemesTestAppUITests"
+               ReferencedContainer = "container:BBSchemesTestApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
