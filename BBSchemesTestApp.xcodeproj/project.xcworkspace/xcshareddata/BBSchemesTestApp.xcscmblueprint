@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "491A78F09533BC34D4F1D354A5A706A9D6B7177D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : 0,
+    "491A78F09533BC34D4F1D354A5A706A9D6B7177D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D74E599-0A55-4D6D-800E-1A4BAFC356AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : "..",
+    "491A78F09533BC34D4F1D354A5A706A9D6B7177D" : "BBSchemesTestApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BBSchemesTestApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BBSchemesTestApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:iOSTestApps\/BBSchemesTestApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "491A78F09533BC34D4F1D354A5A706A9D6B7177D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:BuddyBuild\/BB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3239580941E345AB636F3B382D35AC2CB008F45"
+    }
+  ]
+}
